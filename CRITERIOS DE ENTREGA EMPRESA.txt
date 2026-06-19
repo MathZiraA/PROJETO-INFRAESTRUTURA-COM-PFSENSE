@@ -1,0 +1,82 @@
+Segurança de Redes Industriais com Firewall pfSense
+APRESENTAÇÃO EM GRUPO:
+Criar um nome para empresa de voces
+Projetar, justificar e defender uma solução de segurança cibernética para um ambiente industrial, utilizando o firewall como elemento central, garantindo:
+proteção da infraestrutura de
+continuidade da produção
+acesso remoto seguro
+monitoramento contínuo (APENAS EXPLICAR O BENEFICIO DO USO DE MONITORAMENTO EM REDE INDUSTRIAL E CORPORATIVA)
+ aderência às boas práticas e normas de segurança industrial.
+
+
+1️⃣ Conceito de Firewall no Contexto Industrial
+
+Explique:
+O que é um firewall industrial
+
+Um firewall industrial é um sistema de segurança responsável por , protegendo sistemas de tecnologia da informação (TI) e tecnologia operacional (OT) contra acessos não autorizados e ataques cibernéticos.
+
+Diferença entre firewall corporativo e industrial
+
+Firewall corporativo:
+protege sistemas administrativos
+protege servidores e usuários
+foco em dados e aplicações
+Firewall industrial:
+protege
+precisa garantir
+evita falhas que possam parar a produção
+
+
+Importância do firewall na indústria
+
+O firewall ajuda a:
+proteger a produção
+evitar paradas não planejadas
+reduzir riscos operacionais
+impedir acessos não autorizados à rede industrial.
+📌 “Na indústria, uma falha de segurança pode significar parada de produção e prejuízo financeiro.”
+
+
+
+
+2️⃣ Proteção da Infraestrutura TI e OT
+
+Explique como o firewall protege:
+Sistemas de TI
+
+Exemplo:
+ERP
+servidores de arquivos
+estações administrativas
+Cenário de Rede Industrial (Simulação)
+Cada grupo deverá , simulando uma rede corporativa e industrial.
+Capacidade:
+
+Aplicar a segurança da informação no ambiente de rede on premise e nuvem
+
+Aplicar boas práticas de segurança da informação
+
+Atender conformidades, diretrizes e políticas de segurança da informação relativas às redes de computadores
+
+Identificar mecanismos de criptografia visando a proteção de dados
+
+Configurar mecanismos de criptografia visando a proteção de dados
+
+Configurar os mecanismos de monitoramento de segurança na infraestrutura de redes
+
+Testar a vulnerabilidade da rede para possíveis ataques cibernéticos
+
+Seguir a documentação técnica para implementação de medidas de segurança
+
+Elaborar documentação técnica, com base na política de segurança da informação (PSI)
+
+ Demonstrar ética
+
+ Demonstrar autogestão
+
+3 Demonstrar pensamento analítico
+
+4 Demonstrar resiliência emocional
+
+5 Resolver problemas complexos

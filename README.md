@@ -27,4 +27,4 @@ Segmentação de rede TI/OT · regras de firewall · VPN e acesso remoto seguro 
 
 ---
 
-Autor: [Matheus Ziravello](https://www.linkedin.com/in/matheus-ziravello-283b18310) · [Portfólio](https://mathziraa.github.io)
+Autor: [Matheus Ziravello](https://www.linkedin.com/in/matheusziravello) · [Portfólio](https://mathziraa.github.io)
